@@ -1,2 +1,2 @@
 # Android_app_project
-A simple Android application project made on Android Studios using core Java
+This application is made using Core Java. This app is an all-in-one app with user login having it's own Media Player, Calculator (speaking), Camera, Quizzes, and much more. It also uses various sensors of the device.
